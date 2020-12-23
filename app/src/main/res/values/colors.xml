@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purple">#8f81b5</color>
+    <color name="khoyeri">#e23923</color>
+    <color name="lightgreen">#E0F31A</color>
+    <color name="backgoundDefault">#cc3d3c3c</color>
+    <color name="jobpostbackground">#f3f5e1</color>
+</resources>
